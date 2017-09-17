@@ -1,0 +1,2 @@
+myname = "hello world !"
+print (myname)
